@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673bb7</color>
+    <color name="colorPrimaryDark">#512da7</color>
+    <color name="colorAccent">#ff2167</color>
+    <color name="white">#ffffff</color>
+    <color name="alpha">#aac71925</color>
+    <color name="ppp">#876d61d4</color>
+    <color name="ppp1">#64d6220e</color>
+    <color name="colorPrimaryDark1">#81512da7</color>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "476619129361",
+    "firebase_url": "https://test-3f8f4.firebaseio.com",
+    "project_id": "test-3f8f4",
+    "storage_bucket": "test-3f8f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476619129361:android:7a194920d33214d0",
+        "android_client_info": {
+          "package_name": "com.example.saicharan.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476619129361-qbo1auh50bphhn1b22f5iptgrfekr463.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saicharan.whatsapp",
+            "certificate_hash": "15d9fba11339e170720b10aa13ecd5657dd076f1"
+          }
+        },
+        {
+          "client_id": "476619129361-ddjlnmeqsrehc16pl0n4niu916shkvi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC55Nr7soQpCtpBRidz3G2uwz5jmlycoow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476619129361-ddjlnmeqsrehc16pl0n4niu916shkvi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

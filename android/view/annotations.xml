@@ -1,0 +1,5 @@
+<root>
+    <item name='android.view.MenuInflater void inflate(int, android.view.Menu)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
